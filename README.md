@@ -18,7 +18,6 @@ Para adicionar seu bot em um grupo, acesse o link abaixo em um navegador trocand
 
 ## ☕ Utilizando o Bot
 
-<img src="vidaAoBot.png" alt="Dando vida ao robô">
 
 <img src="exemplo.png" alt="Exmplo da utilização">
 
