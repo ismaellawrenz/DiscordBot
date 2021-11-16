@@ -31,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-/src/main/java/com/java/discord/servicos/Chaves.java
-/target/classes/com/discord/servicos/Chaves.java
-*.png
